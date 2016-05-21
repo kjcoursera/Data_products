@@ -19,3 +19,14 @@ The application allows the user to:
 
 The description of the dataset features along with the references are provided in the Description tab
 
+Comparing Resample Distributions Between Samples
+
+With all the features included, random forest and gbm have more accuracy then rpart.
+
+![](Rplot.png)     ![](Rplot01.png)
+
+
+Shiny App: https://knathan.shinyapps.io
+
+
+
